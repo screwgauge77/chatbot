@@ -18,3 +18,5 @@ To run this project, you need to have Python 3.x installed on your machine.
 git clone https://github.com/yourusername/chatbot.git
 cd chatbot
 
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
