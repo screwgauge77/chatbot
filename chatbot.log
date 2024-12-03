@@ -1,0 +1,163 @@
+2024-12-03 00:37:55,198 - User input: hello, Matched intent: greeting, Confidence: 1.0
+2024-12-03 00:37:55,245 - User: hello, Chatbot: Hey! How can I help you?, Sentiment: 0.0
+2024-12-03 00:38:01,462 - User input: how is the weather, Matched intent: weather, Confidence: 0.7660113000170532
+2024-12-03 00:38:01,462 - User: how is the weather, Chatbot: I'm not sure, but I hope it's nice outside!, Sentiment: 0.0
+2024-12-03 00:38:09,152 - User: suggest movies, Chatbot: I didn't get that., Sentiment: 0.0
+2024-12-03 00:38:17,232 - User input: suggest songs to listen, Matched intent: entertainment, Confidence: 0.5420797290707108
+2024-12-03 00:38:17,232 - User: suggest songs to listen, Chatbot: Try listening to genres like indie, pop, or classical music for variety., Sentiment: 0.0
+2024-12-03 00:38:30,328 - User input: suggest movies to watch, Matched intent: entertainment, Confidence: 0.6869707822500176
+2024-12-03 00:38:30,328 - User: suggest movies to watch, Chatbot: You might enjoy 'Inception' or 'The Shawshank Redemption'., Sentiment: 0.0
+2024-12-03 00:38:41,892 - User: what are good habits, Chatbot: I didn't get that., Sentiment: 0.7
+2024-12-03 00:38:48,337 - User input: crack a joke, Matched intent: joke, Confidence: 0.8548725743766583
+2024-12-03 00:38:48,353 - User: crack a joke, Chatbot: Why don't robots ever get tired? They recharge!, Sentiment: 0.0
+2024-12-03 00:40:48,710 - User: suggest good habits, Chatbot: I didn't get that., Sentiment: 0.7
+2024-12-03 00:41:00,024 - User input: what should i eat, Matched intent: career_advice, Confidence: 0.5887374053014633
+2024-12-03 00:41:00,024 - User: what should i eat, Chatbot: Practice common interview questions!, Sentiment: 0.0
+2024-12-03 00:41:12,575 - User input: suggest things to eat, Matched intent: hobbies, Confidence: 0.5278507029559671
+2024-12-03 00:41:12,575 - User: suggest things to eat, Chatbot: My hobby is to learn from conversations., Sentiment: 0.0
+2024-12-03 00:41:22,659 - User input: wha is hobby, Matched intent: happiness, Confidence: 0.524231105023337
+2024-12-03 00:41:22,659 - User: wha is hobby, Chatbot: Talking to you makes me happy!, Sentiment: 0.0
+2024-12-03 00:41:29,577 - User: really?, Chatbot: Could you rephrase that?, Sentiment: 0.2
+2024-12-03 00:41:37,614 - User input: what is love, Matched intent: love, Confidence: 0.5722203934898428
+2024-12-03 00:41:37,617 - User: what is love, Chatbot: I'm just a chatbot, but I appreciate your company!, Sentiment: 0.5
+2024-12-03 00:41:51,832 - User: suggest me food items to eat, Chatbot: I didn't get that., Sentiment: 0.0
+2024-12-03 00:42:23,041 - User input: do you love me, Matched intent: love, Confidence: 1.0
+2024-12-03 00:42:23,057 - User: do you love me, Chatbot: I love chatting with you!, Sentiment: 0.5
+2024-12-03 00:42:43,676 - User input: what is your favourite colour, Matched intent: faq, Confidence: 0.6958226088839856
+2024-12-03 00:42:43,676 - User: what is your favourite colour, Chatbot: I make conversations easy and fun!, Sentiment: 0.0
+2024-12-03 00:43:14,092 - User input: Do you have a favorite color?, Matched intent: favorite_color, Confidence: 1.0000000000000002
+2024-12-03 00:43:14,092 - User: Do you have a favorite color?, Chatbot: Colors are fascinating, aren't they?, Sentiment: 0.5
+2024-12-03 00:43:36,639 - User: 2+2, Chatbot: I'm sorry, I don't understand that., Sentiment: 0.0
+2024-12-03 00:43:50,125 - User input: What's 2 + 2, Matched intent: math, Confidence: 1.0
+2024-12-03 00:43:50,125 - User: What's 2 + 2, Chatbot: 10 divided by 2 is 5., Sentiment: 0.0
+2024-12-03 00:47:36,615 - User exited the chat.
+2024-12-03 00:51:42,583 - User input: hello, Matched intent: greeting, Confidence: 1.0
+2024-12-03 00:51:42,657 - User: hello, Chatbot: Hey! How can I help you?, Sentiment: 0.0
+2024-12-03 00:51:48,848 - User input: calculate 2+2, Matched intent: math, Confidence: 1.0
+2024-12-03 00:51:48,848 - User: calculate 2+2, Chatbot: 2 + 2 is 4., Sentiment: 0.0
+2024-12-03 00:52:01,828 - User input: what are your favourite colours, Matched intent: hobbies, Confidence: 0.7390727626706781
+2024-12-03 00:52:01,828 - User: what are your favourite colours, Chatbot: I enjoy chatting and helping users!, Sentiment: 0.0
+2024-12-03 00:52:23,314 - User input: do you have a favourite colour?, Matched intent: pets, Confidence: 0.8013508711456139
+2024-12-03 00:52:23,314 - User: do you have a favourite colour?, Chatbot: I don't have pets, but I think dogs are wonderful companions!, Sentiment: 0.0
+2024-12-03 00:53:18,872 - User input: what is your favourite song, Matched intent: music, Confidence: 0.7728016139583147
+2024-12-03 00:53:18,872 - User: what is your favourite song, Chatbot: I think all music is interesting!, Sentiment: 0.0
+2024-12-03 00:53:38,185 - User input: where should i travel, Matched intent: travel, Confidence: 1.0000000000000002
+2024-12-03 00:53:38,187 - User: where should i travel, Chatbot: Popular destinations include Paris, Bali, and Tokyo!, Sentiment: 0.0
+2024-12-03 00:53:52,355 - User input: do you like pizza, Matched intent: food, Confidence: 1.0
+2024-12-03 00:53:52,355 - User: do you like pizza, Chatbot: Food is an interesting topic! What do you like?, Sentiment: 0.0
+2024-12-03 00:55:59,214 - User input: what is your favourite sport, Matched intent: sports, Confidence: 0.7728016139583147
+2024-12-03 00:55:59,226 - User: what is your favourite sport, Chatbot: I enjoy discussing different sports!, Sentiment: 0.0
+2024-12-03 00:59:51,626 - User input: How can I improve myself, Matched intent: self-improvement, Confidence: 1.0
+2024-12-03 00:59:51,626 - User: How can I improve myself, Chatbot: Meditation can help reduce stress and improve focus., Sentiment: 0.0
+2024-12-03 01:00:02,093 - User input: What are popular sports, Matched intent: sports, Confidence: 1.0
+2024-12-03 01:00:02,093 - User: What are popular sports, Chatbot: I don't play sports, but I hear soccer is very popular!, Sentiment: 0.6
+2024-12-03 01:00:27,103 - User input: What are some good movies to watch?, Matched intent: entertainment, Confidence: 1.0
+2024-12-03 01:00:27,103 - User: What are some good movies to watch?, Chatbot: Try listening to genres like indie, pop, or classical music for variety., Sentiment: 0.7
+2024-12-03 01:00:33,738 - User input: What are some good movies to watch?, Matched intent: entertainment, Confidence: 1.0
+2024-12-03 01:00:33,747 - User: What are some good movies to watch?, Chatbot: Try listening to genres like indie, pop, or classical music for variety., Sentiment: 0.7
+2024-12-03 01:01:00,520 - User input: What music should I listen to?, Matched intent: entertainment, Confidence: 1.0000000000000002
+2024-12-03 01:01:00,520 - User: What music should I listen to?, Chatbot: Try listening to genres like indie, pop, or classical music for variety., Sentiment: 0.0
+2024-12-03 01:01:08,858 - User: which movie should i watch, Chatbot: I didn't get that., Sentiment: 0.0
+2024-12-03 01:01:16,200 - User input: suggest some good movies, Matched intent: entertainment, Confidence: 0.5788723085918167
+2024-12-03 01:01:16,200 - User: suggest some good movies, Chatbot: Try listening to genres like indie, pop, or classical music for variety., Sentiment: 0.7
+2024-12-03 01:01:57,856 - User input: suggest some good movies, Matched intent: entertainment, Confidence: 0.5788723085918167
+2024-12-03 01:01:57,861 - User: suggest some good movies, Chatbot: Try listening to genres like indie, pop, or classical music for variety., Sentiment: 0.7
+2024-12-03 01:02:02,745 - User exited the chat.
+2024-12-03 01:02:19,920 - User: suggest some good movies, Chatbot: Could you rephrase that?, Sentiment: 0.7
+2024-12-03 01:02:30,227 - User: suggest some good songs, Chatbot: I didn't get that., Sentiment: 0.7
+2024-12-03 01:02:39,567 - User input: what should i listen to?, Matched intent: entertainment, Confidence: 0.8691916152024195
+2024-12-03 01:02:39,567 - User: what should i listen to?, Chatbot: Popular TV shows include 'Stranger Things' and 'Game of Thrones'., Sentiment: 0.0
+2024-12-03 01:03:18,061 - User input: How can I improve myself?, Matched intent: self-improvement, Confidence: 1.0000000000000002
+2024-12-03 01:03:18,061 - User: How can I improve myself?, Chatbot: Consider setting personal goals and working towards them., Sentiment: 0.0
+2024-12-03 01:03:28,630 - User input: What are popular sports?, Matched intent: sports, Confidence: 1.0000000000000002
+2024-12-03 01:03:28,630 - User: What are popular sports?, Chatbot: I don't play sports, but I hear soccer is very popular!, Sentiment: 0.6
+2024-12-03 01:03:39,766 - User input: What are some good pets to have?, Matched intent: pets, Confidence: 1.0
+2024-12-03 01:03:39,766 - User: What are some good pets to have?, Chatbot: Pets bring joy to many people's lives!, Sentiment: 0.7
+2024-12-03 01:04:11,167 - User input: tell me a joke, Matched intent: joke, Confidence: 1.0
+2024-12-03 01:04:11,167 - User: tell me a joke, Chatbot: Why don't robots ever get tired? They recharge!, Sentiment: 0.0
+2024-12-03 01:04:20,798 - User input: what can you do, Matched intent: faq, Confidence: 1.0
+2024-12-03 01:04:20,798 - User: what can you do, Chatbot: I'm here to help you with whatever I can., Sentiment: 0.0
+2024-12-03 01:04:29,729 - User input: do you love me, Matched intent: love, Confidence: 1.0000000000000002
+2024-12-03 01:04:29,729 - User: do you love me, Chatbot: Love is a beautiful concept, isn't it?, Sentiment: 0.5
+2024-12-03 01:04:41,314 - User input: what are your hobbies, Matched intent: hobbies, Confidence: 1.0
+2024-12-03 01:04:41,314 - User: what are your hobbies, Chatbot: I like to explore new topics with you!, Sentiment: 0.0
+2024-12-03 01:04:52,765 - User input: what makes you happy, Matched intent: happiness, Confidence: 1.0000000000000002
+2024-12-03 01:04:52,765 - User: what makes you happy, Chatbot: I find joy in our conversations!, Sentiment: 0.8
+2024-12-03 01:05:03,004 - User input: what's the news today, Matched intent: news, Confidence: 1.0000000000000002
+2024-12-03 01:05:03,004 - User: what's the news today, Chatbot: I'm not connected to the internet for live news, but you can check news websites for updates!, Sentiment: 0.0
+2024-12-03 01:05:20,419 - User input: what's your favourite song, Matched intent: music, Confidence: 0.8915874398598885
+2024-12-03 01:05:20,419 - User: what's your favourite song, Chatbot: I think all music is interesting!, Sentiment: 0.0
+2024-12-03 01:05:33,348 - User input: what's your favourite food, Matched intent: food, Confidence: 0.8915874398598885
+2024-12-03 01:05:33,348 - User: what's your favourite food, Chatbot: Food is an interesting topic! What do you like?, Sentiment: 0.0
+2024-12-03 01:05:59,894 - User input: what's your favourite movie, Matched intent: movies, Confidence: 0.8814418265758177
+2024-12-03 01:05:59,894 - User: what's your favourite movie, Chatbot: I recommend exploring different genres!, Sentiment: 0.0
+2024-12-03 01:06:36,286 - User input: what hobbies do you recommend, Matched intent: hobby, Confidence: 1.0
+2024-12-03 01:06:36,286 - User: what hobbies do you recommend, Chatbot: Hobbies are a great way to relax!, Sentiment: 0.0
+2024-12-03 01:07:03,385 - User input: what is 2+2, Matched intent: faq, Confidence: 0.5643740402395737
+2024-12-03 01:07:03,385 - User: what is 2+2, Chatbot: I make conversations easy and fun!, Sentiment: 0.0
+2024-12-03 01:07:11,525 - User input: calculate 2+2, Matched intent: math, Confidence: 1.0
+2024-12-03 01:07:11,525 - User: calculate 2+2, Chatbot: 2 + 2 is 4., Sentiment: 0.0
+2024-12-03 01:07:23,079 - User input: where should i travel, Matched intent: travel, Confidence: 1.0000000000000002
+2024-12-03 01:07:23,079 - User: where should i travel, Chatbot: Traveling is a great way to learn about different cultures!, Sentiment: 0.0
+2024-12-03 01:11:48,887 - User input: Tell me about history., Matched intent: history, Confidence: 1.0
+2024-12-03 01:11:48,887 - User: Tell me about history., Chatbot: History helps us understand the present!, Sentiment: 0.0
+2024-12-03 01:12:02,977 - User input: What is your favorite technology, Matched intent: technology, Confidence: 1.0
+2024-12-03 01:12:02,977 - User: What is your favorite technology, Chatbot: Technology is always evolving! I think AI is fascinating!, Sentiment: 0.5
+2024-12-03 01:13:10,162 - User input: goodbye, Matched intent: goodbye, Confidence: 1.0
+2024-12-03 01:13:10,162 - User: goodbye, Chatbot: See you later!, Sentiment: 0.0
+2024-12-03 01:13:14,922 - User exited the chat.
+2024-12-03 01:13:28,160 - User input: how are you, Matched intent: age, Confidence: 0.72
+2024-12-03 01:13:28,202 - User: how are you, Chatbot: I'm as old as the code that runs me!, Sentiment: 0.00
+2024-12-03 01:13:38,257 - User input: suggest food items, Matched intent: hobbies, Confidence: 0.62
+2024-12-03 01:13:38,257 - User: suggest food items, Chatbot: Some popular hobbies include photography, writing, and crafting. What sounds interesting to you?, Sentiment: 0.00
+2024-12-03 01:13:47,998 - User input: suggest food, Matched intent: hobbies, Confidence: 0.62
+2024-12-03 01:13:48,003 - User: suggest food, Chatbot: Some popular hobbies include photography, writing, and crafting. What sounds interesting to you?, Sentiment: 0.00
+2024-12-03 01:14:17,009 - User input: healthy recipies , Matched intent: food, Confidence: 0.56
+2024-12-03 01:14:17,009 - User: healthy recipies , Chatbot: Try a quinoa salad or a smoothie bowl for a healthy meal., Sentiment: 0.50
+2024-12-03 01:14:29,704 - User input: your favourite sport, Matched intent: sports, Confidence: 0.83
+2024-12-03 01:14:29,704 - User: your favourite sport, Chatbot: Football, basketball, and tennis are very popular worldwide., Sentiment: 0.00
+2024-12-03 01:14:50,525 - User input: calculate 5*6, Matched intent: math, Confidence: 1.00
+2024-12-03 01:14:50,525 - User: calculate 5*6, Chatbot: 5 * 6 is 30., Sentiment: 0.00
+2024-12-03 17:34:07,225 - User input: hello, Matched intent: greeting, Confidence: 1.00
+2024-12-03 17:34:07,273 - User: hello, Chatbot: Hello!, Sentiment: 0.00
+2024-12-03 17:34:10,666 - User input: how are you, Matched intent: age, Confidence: 0.72
+2024-12-03 17:34:10,670 - User: how are you, Chatbot: Age is just a number, right?, Sentiment: 0.00
+2024-12-03 17:34:37,656 - User input: suggest songs, Matched intent: hobbies, Confidence: 0.62
+2024-12-03 17:34:37,656 - User: suggest songs, Chatbot: You can try painting, gardening, or playing a musical instrument! How about hiking or reading?, Sentiment: 0.00
+2024-12-03 17:34:50,334 - User: suggest good books, Chatbot: I'm sorry, I didn't understand that. You can ask me about hobbies, weather, or how to stay healthy!, Sentiment: 0.70
+2024-12-03 17:35:00,199 - User: what are your hobbies, Chatbot: I'm sorry, I didn't understand that. You can ask me about hobbies, weather, or how to stay healthy!, Sentiment: 0.00
+2024-12-03 17:35:11,207 - User: how to stay healthy, Chatbot: I'm sorry, I didn't understand that. You can ask me about hobbies, weather, or how to stay healthy!, Sentiment: 0.50
+2024-12-03 17:41:53,602 - User exited the chat.
+2024-12-03 17:50:05,497 - Use pytorch device_name: cpu
+2024-12-03 17:50:05,498 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-12-03 17:51:42,885 - User input: hello, Matched intent: greeting, Confidence: 1.00
+2024-12-03 17:51:42,943 - User: hello, Chatbot: Hello!, Sentiment: 0.00
+2024-12-03 17:51:52,762 - User: suggest me song, Chatbot: I'm sorry, I didn't understand that. You can ask me about hobbies, weather, or how to stay healthy!, Sentiment: 0.00
+2024-12-03 17:52:01,236 - User: what are your hobbies, Chatbot: I'm sorry, I didn't understand that. You can ask me about hobbies, weather, or how to stay healthy!, Sentiment: 0.00
+2024-12-03 17:52:13,700 - User input: what is your name, Matched intent: name, Confidence: 0.87
+2024-12-03 17:52:13,702 - User: what is your name, Chatbot: I am your friendly chatbot!, Sentiment: 0.00
+2024-12-03 17:52:21,138 - User input: how old are you, Matched intent: age, Confidence: 0.91
+2024-12-03 17:52:21,138 - User: how old are you, Chatbot: I don't have an age, but I was created recently!, Sentiment: 0.10
+2024-12-03 17:52:34,057 - User input: what can you do, Matched intent: faq, Confidence: 0.86
+2024-12-03 17:52:34,057 - User: what can you do, Chatbot: I make conversations easy and fun!, Sentiment: 0.00
+2024-12-03 17:52:40,577 - User input: tell me a joke, Matched intent: joke, Confidence: 1.00
+2024-12-03 17:52:40,579 - User: tell me a joke, Chatbot: Why did the computer visit the doctor? Because it caught a virus!, Sentiment: 0.00
+2024-12-03 17:52:52,142 - User input: tell me the weather, Matched intent: weather, Confidence: 1.00
+2024-12-03 17:52:52,142 - User: tell me the weather, Chatbot: The weather is great today!, Sentiment: 0.00
+2024-12-03 17:59:41,106 - User: "Good evening, how are you?", Chatbot: I'm sorry, I didn't understand that. You can ask me about hobbies, weather, or how to stay healthy!, Sentiment: 0.70
+2024-12-03 17:59:57,771 - User exited the chat.
+2024-12-03 18:00:15,627 - Use pytorch device_name: cpu
+2024-12-03 18:00:15,643 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-12-03 18:00:25,250 - User input: hello, Matched intent: greeting, Confidence: 1.00
+2024-12-03 18:00:25,309 - User: hello, Chatbot: Hi! How can I assist?, Sentiment: 0.00
+2024-12-03 18:00:34,866 - User input: how is weather today, Matched intent: weather, Confidence: 0.76
+2024-12-03 18:00:34,866 - User: how is weather today, Chatbot: It's sunny today!, Sentiment: 0.00
+2024-12-03 18:00:45,570 - User input: what are your hobbies, Matched intent: hobbies, Confidence: 0.88
+2024-12-03 18:00:45,570 - User: what are your hobbies, Chatbot: You can try painting, gardening, or playing a musical instrument!, Sentiment: 0.00
+2024-12-03 18:00:56,682 - User input: tell me about sports, Matched intent: sports, Confidence: 0.82
+2024-12-03 18:00:56,682 - User: tell me about sports, Chatbot: I think eSports are exciting too!, Sentiment: 0.00
+2024-12-03 18:01:08,266 - User: what song should i listen too, Chatbot: I'm not sure how to respond to that., Sentiment: 0.00
+2024-12-03 18:13:09,597 - User exited the chat.
+2024-12-03 18:20:19,956 - Use pytorch device_name: cpu
+2024-12-03 18:20:19,956 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-12-03 18:20:27,582 - User exited the chat.

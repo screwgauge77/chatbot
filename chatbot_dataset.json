@@ -1,0 +1,161 @@
+{
+    "intents": [
+        {
+            "category": "general",
+            "tag": "greeting",
+            "patterns": ["Hi", "Hello", "Hey there!", "Good morning", "Good evening", "What's up?"],
+            "responses": {
+                "positive": ["Hi there! You seem happy today!", "Hello! Great to see you!"],
+                "negative": ["Hi. You seem down. Is there something I can help with?"],
+                "neutral": ["Hello!", "Hi! How can I assist?"]
+            },
+            "context_set": "greeted"
+        },
+        {
+            "category": "general",
+            "tag": "goodbye",
+            "patterns": ["Bye", "Goodbye", "See you later", "Take care"],
+            "responses": ["Goodbye!", "See you later!", "Take care!"]
+        },
+        {
+            "category": "weather",
+            "tag": "weather",
+            "patterns": ["What's the weather?", "Tell me the weather", "Is it raining?", "How's the weather?"],
+            "responses": ["It's sunny today!", "I can't check the weather, but it looks nice outside!"],
+            "context_set": "weather_info",
+            "follow_up": ["Would you like a 7-day forecast?", "Should I suggest activities based on the weather?"]
+        },
+        {
+            "category": "weather",
+            "tag": "forecast",
+            "patterns": ["How about tomorrow?", "What about the next day?", "And tomorrow?"],
+            "responses": ["I can't tell tomorrow's weather, but you can check online!", "The forecast isn't available here, but I hope it's sunny!"],
+            "context_filter": "weather_info"
+        },
+        {
+            "category": "travel",
+            "tag": "travel",
+            "patterns": ["Where should I travel?", "Suggest a destination", "What are good vacation spots?"],
+            "responses": [
+                "Paris is amazing for art lovers and history buffs!",
+                "Bali is perfect for beach vacations and nature lovers.",
+                "Tokyo offers a great mix of modern and traditional attractions!"
+            ]
+        },
+        {
+            "category": "entertainment",
+            "tag": "joke",
+            "patterns": ["Tell me a joke", "Make me laugh", "Say something funny"],
+            "responses": [
+                "Why don’t scientists trust atoms? Because they make up everything!",
+                "Why did the computer go to the doctor? It had a virus!"
+            ]
+        },
+        {
+            "category": "self-care",
+            "tag": "self_care",
+            "patterns": ["What is self-care?", "How can I relax?", "Tips for self-care"],
+            "responses": ["Self-care means taking time to recharge yourself.", "Try activities that bring you peace, like meditation or reading."]
+        },
+        {
+            "category": "productivity",
+            "tag": "productivity",
+            "patterns": ["How can I be productive?", "Tips for time management", "How to avoid procrastination?"],
+            "responses": [
+                "Start by setting clear goals for the day.",
+                "Use techniques like the Pomodoro Timer to stay focused.",
+                "Avoid multitasking; focus on one task at a time."
+            ]
+        },
+        {
+            "category": "finance",
+            "tag": "finance",
+            "patterns": ["How can I save money?", "What are good investment options?", "Give me budgeting tips"],
+            "responses": [
+                "Start by tracking your expenses to identify areas to cut back.",
+                "Invest in index funds for long-term stability.",
+                "Create a monthly budget and stick to it."
+            ]
+        },
+        {
+            "category": "technology",
+            "tag": "technology",
+            "patterns": ["What is AI?", "Tell me about recent tech trends", "What gadgets do you recommend?"],
+            "responses": [
+                "AI stands for Artificial Intelligence, and it's transforming industries!",
+                "Recent trends include AI, blockchain, and 5G technology.",
+                "Smartphones and smartwatches are popular gadgets!"
+            ]
+        },
+        {
+            "category": "education",
+            "tag": "education",
+            "patterns": ["How can I study better?", "Tips for exams", "How to stay focused while studying?"],
+            "responses": [
+                "Create a dedicated study space free from distractions.",
+                "Use flashcards or practice tests for revision.",
+                "Take short breaks between study sessions to stay fresh."
+            ]
+        },
+        {
+            "category": "mental health",
+            "tag": "mental_health",
+            "patterns": ["How can I manage stress?", "Signs of anxiety", "Tips for mental health"],
+            "responses": [
+                "Practice mindfulness or meditation to reduce stress.",
+                "Talk to a professional if you're feeling overwhelmed.",
+                "Stay active and connect with supportive people."
+            ]
+        },
+        {
+            "category": "sports",
+            "tag": "sports",
+            "patterns": ["What's your favorite sport?", "Tell me about popular sports", "How can I stay fit?"],
+            "responses": [
+                "Soccer, basketball, and tennis are globally popular.",
+                "Regular exercise like jogging or yoga can help you stay fit!",
+                "I think eSports are exciting too!"
+            ]
+        },
+        {
+            "category": "food",
+            "tag": "food",
+            "patterns": ["What are some healthy recipes?", "Tell me about popular cuisines", "How to cook pasta?"],
+            "responses": [
+                "Try a quinoa salad or a smoothie bowl for a healthy meal.",
+                "Italian, Thai, and Mexican cuisines are quite popular!",
+                "To cook pasta, boil water, add salt, and cook for about 8-10 minutes."
+            ]
+        },
+        {
+            "category": "hobbies",
+            "tag": "hobbies",
+            "patterns": ["What hobbies do you suggest?", "How to spend free time?", "What are popular hobbies?"],
+            "responses": [
+                "You can try painting, gardening, or playing a musical instrument!",
+                "Popular hobbies include photography, writing, and hiking.",
+                "How about exploring something new like pottery or coding?"
+            ]
+        },
+        {
+            "category": "books",
+            "tag": "books",
+            "patterns": ["What are some good books?", "Recommend a book", "What should I read?"],
+            "responses": [
+                "I suggest 'Atomic Habits' by James Clear for self-improvement.",
+                "'To Kill a Mockingbird' is a classic must-read.",
+                "For thrillers, try 'The Silent Patient' by Alex Michaelides."
+            ]
+        },
+        {
+            "category": "movies",
+            "tag": "movies",
+            "patterns": ["Recommend a movie", "What should I watch?", "Tell me about good films"],
+            "responses": [
+                "For sci-fi lovers, 'Interstellar' is a masterpiece.",
+                "Enjoy comedies? Try 'The Grand Budapest Hotel.'",
+                "If you're into action, 'Mad Max: Fury Road' is a must-watch!"
+            ]
+        }
+    ]
+}
