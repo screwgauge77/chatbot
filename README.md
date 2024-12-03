@@ -20,3 +20,9 @@ cd chatbot
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+- Thanks to the creators of the `sentence-transformers` library for their excellent work on NLP.
+- Special thanks to [OpenAI](https://www.openai.com) for providing resources and support for developing AI applications.
+- The community support on Stack Overflow helped resolve several issues I encountered during development.
+
